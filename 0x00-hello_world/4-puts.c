@@ -4,24 +4,25 @@
 
 /**
 
-* main - print the string in the put function
+* main - prints out a string via puts
 
 *
 
-* Description: using the main function
+* Description: program that prints out the string s followed by a new line
 
-* this program prints "Programming is like building a multilingual puzzle
-
-* Return: 0
+* Return:int 0 when done and no errors
 
 */
+
+
 
 int main(void)
 
 {
 
-	printf("with proper grammar, but the outcome is a piece of art,\n");
+	puts("\"programming is like building a multilingual puzzle");
 
 	return (0);
 
 }
+

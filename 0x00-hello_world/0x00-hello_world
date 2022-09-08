@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+/**
+* main - prints out a string via puts
+* Description: program that prints out the string s followed by a new line
+* Return: int 0 when done an no errors
+*/
+
+int main (void)
+{
+ [A[A[A
