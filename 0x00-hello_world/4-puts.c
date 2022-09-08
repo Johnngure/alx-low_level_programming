@@ -4,13 +4,15 @@
 
 /**
 
-* main - prints out a string via puts
+* main - print the string in the puts function
 
 *
 
-* Description: program that prints out the string s followed by a new line
+* Description: using the main function
 
-* Return:int 0 when done and no errors
+* this program prints "Programming is like building a multilingual puzzle
+
+* Return: 0
 
 */
 
@@ -25,4 +27,3 @@ int main(void)
 	return (0);
 
 }
-
