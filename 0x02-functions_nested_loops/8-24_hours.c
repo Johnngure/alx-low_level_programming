@@ -1,0 +1,5 @@
+	}
+	hours++;
+	minutes = 0;
+}
+}
